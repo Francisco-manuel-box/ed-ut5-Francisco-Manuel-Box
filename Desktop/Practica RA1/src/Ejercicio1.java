@@ -17,3 +17,4 @@ public class Ejercicio1 {
         System.out.printf("La nota media es de: %.2f ", + P);
     }
 }
+//Hola que tal soy Luisella 
